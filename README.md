@@ -245,7 +245,7 @@ This laboratory is intended strictly for education purposes only.
 LinkedIn: https://www.linkedin.com/in/solanki-vijay/
 
 --------------------------------------------
-🛠️ Tools Visited & Explored
+🛠️ Tools Explored
 --------------------------------------------
 
 As part of the cybersecurity lab setup, I visited and explored the official websites and documentation of different tools used for cybersecurity learning.

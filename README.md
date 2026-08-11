@@ -63,7 +63,7 @@ The lab was constructed using virtualization software to safely simulate a small
 🪜 Lab Setup Procedure
 --------------------------------------------
 Step 1. Install 7-Zip
-7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
+7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
 Tool: 7-Zip
 

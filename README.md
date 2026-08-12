@@ -12,6 +12,9 @@ This project documents the design, deployment, and testing of a self-contained c
 The lab was constructed using virtualization software to safely simulate a small network consisting of an attacker machine and one or more intentionally vulnerable target machines.
 
 
+> [!IMPORTANT]
+> This project is the first phase of my cybersecurity internship and focuses on building a safe and isolated environment for learning and practicing penetration testing techniques.
+
 --------------------------------------------
 🎯 Objectives
 --------------------------------------------
@@ -40,6 +43,9 @@ The lab was constructed using virtualization software to safely simulate a small
 🏗️ Lab Architecture
 --------------------------------------------
 <img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/78fd8cd3-6c5f-4151-a2de-a646dbc36152" />
+
+> [!IMPORTANT]
+> The lab is designed to keep cybersecurity experiments isolated from the host system while allowing controlled communication between virtual machines.
 
 --------------------------------------------
 ⚙️ Lab Configuration
@@ -160,6 +166,9 @@ Example Results
     DNS:
     8.8.8.8
 
+> [!IMPORTANT]
+> All basic network connectivity and configuration tests were successfully completed, confirming that the Kali Linux environment is ready for future security testing activities.
+
 --------------------------------------------
 🐞 Problems Encountered & Solutions
 --------------------------------------------
@@ -227,6 +236,8 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 --------------------------------------------
 This laboratory is intended strictly for education purposes only.
 
+> [!IMPORTANT]
+> During the lab setup, I also explored commonly used cybersecurity tools to understand their purpose, interface, and role in penetration testing and network security.
 
 --------------------------------------------
 🔗 Tools & Resources
@@ -234,6 +245,13 @@ This laboratory is intended strictly for education purposes only.
 - 7-Zip
 - VirtualBox
 - Kali Linux
+
+--------------------------------------------
+## 🚀 Future Work
+--------------------------------------------
+
+> [!IMPORTANT]
+> The next phase of the project will focus on setting up intentionally vulnerable target machines and performing controlled reconnaissance, vulnerability assessment, web security testing, and network traffic analysis.
 
 --------------------------------------------
 👤 Author
@@ -258,6 +276,12 @@ As part of the cybersecurity lab setup, I visited and explored the official webs
   
   <img width="1272" height="796" alt="Wire" src="https://github.com/user-attachments/assets/9b867de0-ce22-4248-bb0e-cb0a52053f55" />
 
+--------------------------------------------
+## 🏁 Conclusion
+--------------------------------------------
+
+> [!IMPORTANT]
+> This lab provides a controlled foundation for future cybersecurity exercises and helps develop practical skills in Linux administration, networking, virtualization, and penetration testing.
 
   --------------------------------------------
   

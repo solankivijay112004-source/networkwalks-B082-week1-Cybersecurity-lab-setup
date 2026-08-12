@@ -1,4 +1,4 @@
-<h1 align="center">🛡️🔐 Cybersecurity Lab Setup</h1>
+<h1 align="center">🛡️🔐 networkwalks-B082-week1-Cybersecurity Lab Setup</h1>
 
 <p align="center">
   <b>Building a Kali  Linux penetration  Testing Lab </b>

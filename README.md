@@ -263,7 +263,10 @@ As part of the cybersecurity lab setup, I visited and explored the official webs
   
 📌 Project Information
 --------------------------------------------
-Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
-
+| Program Name | Cybersecurity at Networkwalks |
+|---|---|
+| Week | 01 |
+| Project | Cybersecurity & Pentesting Lab Setup |
+| Repository | GitHub |
 
 
